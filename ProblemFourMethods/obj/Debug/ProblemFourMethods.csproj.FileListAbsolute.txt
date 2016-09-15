@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ProblemFourMethods\ProblemFourMethods\bin\Debug\ProblemFourMethods.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ProblemFourMethods\ProblemFourMethods\bin\Debug\ProblemFourMethods.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ProblemFourMethods\ProblemFourMethods\bin\Debug\ProblemFourMethods.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ProblemFourMethods\ProblemFourMethods\obj\Debug\ProblemFourMethods.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ProblemFourMethods\ProblemFourMethods\obj\Debug\ProblemFourMethods.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ProblemFourMethods\ProblemFourMethods\obj\Debug\ProblemFourMethods.pdb
